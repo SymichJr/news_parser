@@ -158,3 +158,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Chrome drivers
+chromedriver_win32/
+chromedriver_mac_arm64/
+chromedriver_mac64/
+chromedriver_linux64/
+
+# sqlite db 
+profile.db
