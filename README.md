@@ -1,4 +1,4 @@
-# news_scrapper
+# news_parser
 Script for parsing cookies from ```news.google.com```
 
 ## Install
