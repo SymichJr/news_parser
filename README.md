@@ -7,7 +7,7 @@ Install all dependencies from a file ```requirements.txt```
 ```sh
 pip install -r requirements.txt
 ```
-Download chrome web driver
+Download chrome web driver with version that is simmilar to your chrome
 
 In ```.env``` file set parameter ```PATH_TO_DRIVER='Path_to_your_chrome_web_driver'```
 
